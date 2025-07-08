@@ -5,7 +5,7 @@ I'm a Polito student based in Italy, passionate about technology, learning, and 
 
 - 🎓 **Student:** Always exploring new technologies and expanding my knowledge.
 - 💻 **Coding Enthusiast:** I enjoy experimenting with different programming languages and frameworks.
-- 🌍 **Based in:** Turkey
+- 🌍 **Based in:** Italy
 - 🌐 **Website:** [sefakalkan.com](https://sefakalkan.com/)
 - 📫 **Contact me:** [mail@sefakalkan.com](mailto:mail@sefakalkan.com)
 
