@@ -22,7 +22,7 @@ Here are a few cool projects:
 
 ## 🌱 Always Learning
 
-Whether it’s new programming languages, frameworks, or tools—there’s always something new to explore!
+Whether it’s new programming languages, frameworks, or tools there’s always something new to explore!
 
 ## 📫 Let’s Connect!
 
