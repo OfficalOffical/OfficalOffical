@@ -1,7 +1,7 @@
 # Hi there, I'm Sefa! 👋
 
 Welcome to my GitHub profile!  
-I'm a student based in Turkey, passionate about technology, learning, and building cool things.
+I'm a Polito student based in Italy, passionate about technology, learning, and building cool things.
 
 - 🎓 **Student:** Always exploring new technologies and expanding my knowledge.
 - 💻 **Coding Enthusiast:** I enjoy experimenting with different programming languages and frameworks.
